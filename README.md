@@ -1,13 +1,43 @@
-1*1=1
-1*2=2
-1*3=3
-1*4=4
-1*5=5
-1*6=6
-1*7=7
-1*8=8
-1*9=9
-1*10=10
-a=1
-if x==1
-print("a es 1")
+
+a = 1
+
+print(a *1)
+print(a *2)
+print(a *3)
+print(a *4)
+print(a *5)
+print(a *6)
+print(a *7)
+print(a *8)
+print(a *9)
+print(a *10)
+print(a *11)
+print(a *12)
+
+print(a *1)
+print(a *2)
+print(a *3)
+print(a *4)
+print(a *5)
+print(a *6)
+print(a *7)
+print(a *8)
+print(a *9)
+print(a *10)
+print(a *11)
+print(a *12)
+
+a = 3
+
+print(a *1)
+print(a *2)
+print(a *3)
+print(a *4)
+print(a *5)
+print(a *6)
+print(a *7)
+print(a *8)
+print(a *9)
+print(a *10)
+print(a *11)
+print(a *12)
